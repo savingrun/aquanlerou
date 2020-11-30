@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Saving's github stats](https://github-readme-stats.vercel.app/api?username=aquanlerou&show_icons=true&bg_color=24292e&title_color=ffffff&text_color=ffffff)](https://github.com/aquanlerou)
+
 <!--
 **aquanlerou/aquanlerou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

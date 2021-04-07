@@ -14,10 +14,6 @@
 [![Css](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS)
 ![Shell](https://img.shields.io/badge/Shell-f05032?style=flat-square&logo=powershell&logoColor=ffffff)
 
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/aquanlerou/count.svg" />
-</p>
-
 <!--
 **aquanlerou/aquanlerou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

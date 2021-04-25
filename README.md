@@ -1,6 +1,6 @@
 ### Hi there,I'm Saving 👋
 
-[![Saving's github stats](https://github-readme-stats.vercel.app/api?username=aquanlerou&theme=radical&show_icons=true)](https://github.com/aquanlerou)
+<!-- [![Saving's github stats](https://github-readme-stats.vercel.app/api?username=aquanlerou&theme=radical&show_icons=true)](https://github.com/aquanlerou) -->
 
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://java.com)
 [![Golang](https://img.shields.io/badge/-Golang-f05032?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org)
